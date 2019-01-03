@@ -1,0 +1,11 @@
+{
+  "name": "umi-plugin-apollo-examples",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "repository": "https://github.com/lemol/umi-plugin-apollo-examples",
+  "author": "Leza Lutonda (Lemol-C) <lemol-c@hotmail.com>",
+  "license": "MIT"
+}
